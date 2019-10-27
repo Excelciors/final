@@ -4,4 +4,8 @@
 [submodule "frontend"]
         path = frontend
         url = https://github.com/Excelciors/frontend
+[submodule "mobile"]
+        path = mobile
+        url = https://github.com/Excelciors/mobile
+
 
